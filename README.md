@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Swarup Tripathy</h1>
+<h1 align="center">Hi there! 👋, I'm Swarup Tripathy</h1>
 <h3 align="center">Applied Scientist - AI and ML Engineer based in Berlin, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaruptripathy&label=Profile%20views&color=0e75b6&style=flat" alt="swaruptripathy" /> 
