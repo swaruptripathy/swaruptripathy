@@ -1,8 +1,10 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! 👋, नमस्ते (Namaste) I'm Swarup Tripathy</h1>
-<h3 align="center">Applied Scientist - AI and ML Engineer from India <img src="https://www.flaticon.com/free-icon/india_330439?term=indian+flag&page=1&position=3&origin=tag&related_id=330439"/> currently based in Berlin, Germany.</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! 👋, I'm Swarup Tripathy</h1>
+<h3 align="center">Applied Scientist - AI and ML Engineer based in Berlin, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaruptripathy&label=Profile%20views&color=0e75b6&style=flat" alt="swaruptripathy" /> 
 <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=followers&query=followers&url=https://api.github.com/users/swaruptripathy" /> </p>
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
